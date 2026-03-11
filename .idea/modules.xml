@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Easy/CheckSortedAndRotated/CheckSortedAndRotated.iml" filepath="$PROJECT_DIR$/Arrays/Easy/CheckSortedAndRotated/CheckSortedAndRotated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Easy/Easy.iml" filepath="$PROJECT_DIR$/Arrays/Easy/Easy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Easy/Easy2.iml" filepath="$PROJECT_DIR$/Strings/Easy/Easy2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Medium/Medium.iml" filepath="$PROJECT_DIR$/Arrays/Medium/Medium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Medium/Medium2.iml" filepath="$PROJECT_DIR$/Strings/Medium/Medium2.iml" />
+    </modules>
+  </component>
+</project>
