@@ -1,5 +1,5 @@
 import java.util.*;
-public class LargestOddNumber {
+public class Main {
     public static String largestOddNumber(String num) {
         for(int i = num.length() - 1; i >= 0; i--) {
             int digit = num.charAt(i) - '0';
