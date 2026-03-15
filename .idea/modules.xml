@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Strings/Easy/Easy2.iml" filepath="$PROJECT_DIR$/Strings/Easy/Easy2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Medium/Medium.iml" filepath="$PROJECT_DIR$/Arrays/Medium/Medium.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Medium/Medium2.iml" filepath="$PROJECT_DIR$/Strings/Medium/Medium2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Medium/RemoveDuplicates/RemoveDuplicates.iml" filepath="$PROJECT_DIR$/Arrays/Medium/RemoveDuplicates/RemoveDuplicates.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Medium/TopKFrequent/TopKFrequent.iml" filepath="$PROJECT_DIR$/Arrays/Medium/TopKFrequent/TopKFrequent.iml" />
     </modules>
   </component>
