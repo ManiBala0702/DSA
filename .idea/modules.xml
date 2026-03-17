@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Medium/BestTimeToBuySell2/BestTimeToBuySell2.iml" filepath="$PROJECT_DIR$/Arrays/Medium/BestTimeToBuySell2/BestTimeToBuySell2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Easy/CheckSortedAndRotated/CheckSortedAndRotated.iml" filepath="$PROJECT_DIR$/Arrays/Easy/CheckSortedAndRotated/CheckSortedAndRotated.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Easy/Easy.iml" filepath="$PROJECT_DIR$/Arrays/Easy/Easy.iml" />
