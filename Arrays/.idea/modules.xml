@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Arrays.iml" filepath="$PROJECT_DIR$/.idea/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Medium/BestTimeToBuySell2/BestTimeToBuySell2.iml" filepath="$PROJECT_DIR$/Medium/BestTimeToBuySell2/BestTimeToBuySell2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Easy/CheckSortedAndRotated/CheckSortedAndRotated.iml" filepath="$PROJECT_DIR$/Easy/CheckSortedAndRotated/CheckSortedAndRotated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Easy/Easy.iml" filepath="$PROJECT_DIR$/Easy/Easy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hard/Hard.iml" filepath="$PROJECT_DIR$/Hard/Hard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Medium/Medium.iml" filepath="$PROJECT_DIR$/Medium/Medium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Medium/RemoveDuplicatesII/RemoveDuplicatesII.iml" filepath="$PROJECT_DIR$/Medium/RemoveDuplicatesII/RemoveDuplicatesII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hard/ReversePairs/ReversePairs.iml" filepath="$PROJECT_DIR$/Hard/ReversePairs/ReversePairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Medium/Search2DMatrix/Search2DMatrix.iml" filepath="$PROJECT_DIR$/Medium/Search2DMatrix/Search2DMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Medium/TopKFrequent/TopKFrequent.iml" filepath="$PROJECT_DIR$/Medium/TopKFrequent/TopKFrequent.iml" />
+    </modules>
+  </component>
+</project>
